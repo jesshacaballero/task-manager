@@ -1,8 +1,8 @@
 # Personal Task Manager
 
-**Project Code:** WST21-PM-2026-SF
-**Student Name:** Jessha Caballero
-**Course & Year:** BSIT – 2nd Year
+**Project Code:** WST21-PM-2026-SF<br>
+**Student Name:** Jessha Caballero<br>
+**Course & Year:** BSIT – 2nd Year<br>
 **Database Used:** MySQL
 
 ## Features
