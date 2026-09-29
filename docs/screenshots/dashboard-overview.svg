@@ -1,0 +1,72 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" fill="#F3F1EE"/>
+  <rect x="0" y="0" width="180" height="760" fill="#EEF3EF"/>
+  <rect x="22" y="22" width="136" height="34" rx="8" fill="#EEF3EF"/>
+  <text x="34" y="44" fill="#5F6F65" font-family="Arial, sans-serif" font-size="12" font-weight="700">JESSHA'S TASKS</text>
+
+  <rect x="26" y="90" width="118" height="34" rx="8" fill="#E8F0EB"/>
+  <rect x="40" y="100" width="16" height="14" rx="2" stroke="#5D7165" stroke-width="1.5"/>
+  <text x="64" y="111" fill="#2F3A35" font-family="Arial, sans-serif" font-size="14" font-weight="600">All tasks</text>
+  <text x="122" y="111" fill="#6A7B73" font-family="Arial, sans-serif" font-size="11" font-weight="700">3</text>
+
+  <rect x="26" y="140" width="118" height="34" rx="8" fill="#F3F1EE"/>
+  <circle cx="40" cy="157" r="6" stroke="#6E7F78" stroke-width="1.5" fill="none"/>
+  <text x="55" y="162" fill="#5B665F" font-family="Arial, sans-serif" font-size="14">Today</text>
+  <text x="122" y="162" fill="#6A7B73" font-family="Arial, sans-serif" font-size="11" font-weight="700">0</text>
+
+  <rect x="26" y="190" width="118" height="34" rx="8" fill="#F3F1EE"/>
+  <path d="M36 201 L43 208 L52 198" stroke="#6E7F78" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="58" y="207" fill="#5B665F" font-family="Arial, sans-serif" font-size="14">Completed</text>
+  <text x="122" y="207" fill="#6A7B73" font-family="Arial, sans-serif" font-size="11" font-weight="700">1</text>
+
+  <rect x="190" y="32" width="960" height="680" rx="18" fill="#F5F4F2"/>
+  <text x="230" y="90" fill="#6B6F73" font-family="Arial, sans-serif" font-size="15">Tuesday, September 29</text>
+  <text x="230" y="146" fill="#2D3433" font-family="Arial, sans-serif" font-size="52" font-weight="700">Good day, <tspan fill="#E26A56">Jessica.</tspan></text>
+
+  <rect x="230" y="170" width="700" height="104" rx="16" fill="#DCEFE8"/>
+  <text x="260" y="210" fill="#465B54" font-family="Arial, sans-serif" font-size="14" font-weight="600">Weekly momentum</text>
+  <text x="840" y="210" fill="#465B54" font-family="Arial, sans-serif" font-size="13" font-weight="600">25% complete</text>
+  <rect x="260" y="230" width="594" height="14" rx="7" fill="#B9D8CE"/>
+  <rect x="260" y="230" width="158" height="14" rx="7" fill="#7BB3A1"/>
+  <text x="260" y="255" fill="#5F766E" font-family="Arial, sans-serif" font-size="13">You are building a good rhythm.</text>
+
+  <rect x="230" y="300" width="220" height="90" rx="12" fill="#F3F1F0" stroke="#D8D5D2"/>
+  <text x="250" y="325" fill="#7A7D7A" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">OPEN TASKS</text>
+  <text x="250" y="360" fill="#2D3433" font-family="Arial, sans-serif" font-size="28" font-weight="700">3</text>
+  <text x="250" y="378" fill="#6A706C" font-family="Arial, sans-serif" font-size="12">Keep them momentum going</text>
+
+  <rect x="460" y="300" width="220" height="90" rx="12" fill="#F4ECE0" stroke="#D8D5D2"/>
+  <text x="480" y="325" fill="#7A7D7A" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">DUE TODAY</text>
+  <text x="480" y="360" fill="#2D3433" font-family="Arial, sans-serif" font-size="28" font-weight="700">0</text>
+  <text x="480" y="378" fill="#6A706C" font-family="Arial, sans-serif" font-size="12">Tasks on your radar</text>
+
+  <rect x="690" y="300" width="220" height="90" rx="12" fill="#F0F4EE" stroke="#D8D5D2"/>
+  <text x="710" y="325" fill="#7A7D7A" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">COMPLETED</text>
+  <text x="710" y="360" fill="#2D3433" font-family="Arial, sans-serif" font-size="28" font-weight="700">1</text>
+  <text x="710" y="378" fill="#6A706C" font-family="Arial, sans-serif" font-size="12">Wins worth noticing</text>
+
+  <rect x="230" y="420" width="700" height="20" rx="4" fill="#F4F3F1"/>
+  <text x="250" y="435" fill="#6B6F73" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">YOUR SPACE</text>
+  <text x="250" y="470" fill="#2D3433" font-family="Arial, sans-serif" font-size="38" font-weight="700">All tasks</text>
+
+  <rect x="230" y="510" width="700" height="44" rx="10" fill="#EEF1EF" stroke="#D3DED9"/>
+  <circle cx="255" cy="532" r="7" fill="none" stroke="#6D7C77" stroke-width="1.5"/>
+  <text x="272" y="537" fill="#8B938E" font-family="Arial, sans-serif" font-size="15">Search tasks...</text>
+
+  <rect x="230" y="570" width="700" height="86" rx="12" fill="#F3F4F2" stroke="#D3DED9"/>
+  <rect x="246" y="590" width="18" height="18" rx="4" fill="#F0F3F0" stroke="#B6C0BC"/>
+  <text x="278" y="605" fill="#2D3433" font-family="Arial, sans-serif" font-size="18" font-weight="700">get drinks</text>
+  <text x="282" y="628" fill="#7F877F" font-family="Arial, sans-serif" font-size="12">grocery</text>
+  <rect x="842" y="600" width="70" height="22" rx="11" fill="#F4E8B4"/>
+  <text x="857" y="616" fill="#8A6D1D" font-family="Arial, sans-serif" font-size="10" font-weight="700">PENDING</text>
+  <text x="778" y="602" fill="#7E857E" font-family="Arial, sans-serif" font-size="12">Sep 26</text>
+
+  <rect x="230" y="668" width="700" height="86" rx="12" fill="#F3F4F2" stroke="#D3DED9"/>
+  <rect x="246" y="688" width="18" height="18" rx="4" fill="#7AAE7E"/>
+  <path d="M250 698 L255 704 L261 693" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="278" y="703" fill="#2D3433" font-family="Arial, sans-serif" font-size="18" font-weight="700">breakfast</text>
+  <text x="282" y="725" fill="#7F877F" font-family="Arial, sans-serif" font-size="12">meal</text>
+  <rect x="842" y="698" width="72" height="22" rx="11" fill="#BBD9C7"/>
+  <text x="858" y="714" fill="#3D6D4D" font-family="Arial, sans-serif" font-size="10" font-weight="700">COMPLETED</text>
+  <text x="780" y="700" fill="#7E857E" font-family="Arial, sans-serif" font-size="12">Sep 3</text>
+</svg>
