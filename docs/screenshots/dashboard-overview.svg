@@ -21,7 +21,7 @@
 
   <rect x="190" y="32" width="960" height="680" rx="18" fill="#F5F4F2"/>
   <text x="230" y="90" fill="#6B6F73" font-family="Arial, sans-serif" font-size="15">Tuesday, September 29</text>
-  <text x="230" y="146" fill="#2D3433" font-family="Arial, sans-serif" font-size="52" font-weight="700">Good day, <tspan fill="#E26A56">Jessica.</tspan></text>
+  <text x="230" y="146" fill="#2D3433" font-family="Arial, sans-serif" font-size="52" font-weight="700">Good day, <tspan fill="#E26A56">Jessha.</tspan></text>
 
   <rect x="230" y="170" width="700" height="104" rx="16" fill="#DCEFE8"/>
   <text x="260" y="210" fill="#465B54" font-family="Arial, sans-serif" font-size="14" font-weight="600">Weekly momentum</text>
